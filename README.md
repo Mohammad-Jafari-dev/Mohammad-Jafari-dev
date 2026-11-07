@@ -1,121 +1,96 @@
-<!-- ===================== PROFILE HEADER ===================== --><div align="center"><img src="./Banner.jpg" width="100%" alt="Mohammad Jafari Banner"><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=800&color=39D98A&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Mohammad+Jafari;Aspiring+AI+Engineer;Exploring+Artificial+Intelligence;Learning+%7C+Building+%7C+Evolving" alt="Typing Animation"><br><a href="https://github.com/Mohammad-Jafari-dev">
-  <img src="https://img.shields.io/badge/GitHub-Mohammad--Jafari--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://mohammad-jafari-dev.github.io/mohammad-jafari-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a><br><br>
+👋 Hi, I'm Mohammad Jafari
 
-<img src="https://komarev.com/ghpvc/?username=Mohammad-Jafari-dev&style=for-the-badge&color=2E8B57" alt="Profile Views"></div>---
-
-👨‍💻 About Me
-
-Hi! I'm Mohammad Jafari, an aspiring AI Engineer passionate about programming, artificial intelligence, and building intelligent systems.
-
-I enjoy understanding how technology works, learning new concepts, and turning ideas into practical projects.
-
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🐍 Developing my Python programming skills
-- 🌐 Learning Web Development and API integration
-- ⚙️ Interested in Automation and AI Agents
-- 🧠 Focused on understanding concepts deeply
-- 🔬 Learning through experimentation and practical projects
-
-🎯 My Vision
-
-My goal is to become an AI Engineer capable of designing, developing, and improving intelligent systems.
-
-I believe meaningful progress comes from curiosity, consistency, scientific thinking, and building real things.
-
-<div align="center">🌱 Learn. Build. Evolve.
+<div align="center"><img src="./Banner.jpg" width="100%" alt="Mohammad Jafari - Personal Banner" /><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D69A&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Exploring+Machine+Learning;Building+Practical+AI+Tools;Interested+in+Intelligent+Automation" alt="Typing SVG" /><br/>""Portfolio" (https://img.shields.io/badge/Portfolio-00A878?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://mohammad-jafari-dev.github.io/mohammad-jafari-portfolio/)
+""GitHub" (https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/Mohammad-Jafari-dev)
+""X" (https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)" (https://x.com/MohammadJafdev)
 
 </div>---
 
-🧭 Areas of Interest
+🌲 About Me
 
-<div align="center">🤖 Artificial Intelligence| 🧠 Machine Learning
-🧬 Deep Learning| ✨ Generative AI & LLMs
-🕸️ AI Agents| ⚙️ Automation & n8n
-🔌 API Development & Integration| 🌐 Web Development
+I'm an aspiring AI Engineer with a strong interest in programming, artificial intelligence, and building useful technology.
 
-</div>---
+I enjoy understanding how things work, exploring new ideas, and turning knowledge into practical projects.
 
-💻 Programming Languages
+My approach is based on learning deeply, thinking scientifically, and improving through experimentation.
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,js&theme=light" alt="Python and JavaScript"></div>🌐 Web Technologies
-
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css&theme=light" alt="HTML and CSS"></div>🔧 Development Tools
-
-<div align="center"><img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=light" alt="Development Tools"></div>🤖 AI & Data Technologies
-
-<div align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas&theme=light" alt="AI and Data Technologies"></div>⚙️ Automation & Integration
-
-<div align="center"><img src="https://skillicons.dev/icons?i=json&theme=light" alt="JSON"></div>Technology| Status
-REST APIs| Learning
-API Integration| Planned
-n8n| Planned
-Workflow Automation| Interested
+«Learn. Build. Evolve.»
 
 ---
 
-📚 Skills & Learning Progress
+🧠 Areas of Interest
 
-Technology| Current Level
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Generative AI & Large Language Models
+- AI Agents and Intelligent Systems
+- Automation & Workflow Development
+- API Development & Integration
+- Web Development
+
+---
+
+🛠️ Technologies & Tools
+
+Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Programming Languages" />
+</p>Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools" />
+</p>AI & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI Technologies" />
+</p>Current Learning Focus
+
+Technology| Status
 Python| Intermediate Foundations
 JavaScript| Beginner
-HTML5| Beginner
-CSS3| Beginner
+HTML5 & CSS3| Beginner
 Git| Practical Familiarity
 GitHub| Learning
 REST APIs| Learning
 Artificial Intelligence| Learning
-Machine Learning| Learning Plan
+Machine Learning| Learning Path
 Deep Learning| Planned
 Generative AI & LLMs| Planned
-AI Agents| Learning Goal
-n8n| Planned
-
-<sub>These levels represent my current learning stage, not professional proficiency.</sub>
+AI Agents| Exploring
+n8n & Automation| Planned
 
 ---
 
 🚀 Featured Project
 
-<div align="center">🌲 Personal Portfolio Website
+🌐 Personal Portfolio Website
 
-A personal website introducing my interests, skills, and development work.
+My personal portfolio website, built to introduce my work, interests, and development journey.
 
-<a href="https://mohammad-jafari-dev.github.io/mohammad-jafari-portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-238636?style=for-the-badge" alt="Live Demo">
-</a><a href="https://github.com/Mohammad-Jafari-dev/mohammad-jafari-portfolio">
-  <img src="https://img.shields.io/badge/💻_Source_Code-View_Repository-181717?style=for-the-badge" alt="Source Code">
-</a></div>---
+Technologies: HTML5, CSS3, JavaScript
+
+""Visit Website" (https://img.shields.io/badge/Visit-Portfolio-00A878?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://mohammad-jafari-dev.github.io/mohammad-jafari-portfolio/)
+""Source Code" (https://img.shields.io/badge/Source-Code-222222?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/Mohammad-Jafari-dev/mohammad-jafari-portfolio)
+
+---
 
 📊 GitHub Statistics
 
-<div align="center"><a href="https://github.com/Mohammad-Jafari-dev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Jafari-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics">
-</a><a href="https://github.com/Mohammad-Jafari-dev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Jafari-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</a><br><img width="70%" src="https://streak-stats.demolab.com?user=Mohammad-Jafari-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"><br><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Jafari-dev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"></div>---
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Jafari-dev&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Jafari-dev&layout=compact&theme=merko&hide_border=true" alt="Top Languages" /><br/><img width="75%" src="https://streak-stats.demolab.com?user=Mohammad-Jafari-dev&theme=merko&hide_border=true" alt="GitHub Streak" /></div>---
 
 🌐 Connect With Me
 
-<div align="center"><a href="https://github.com/Mohammad-Jafari-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://x.com/MohammadJafdev">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-<a href="https://t.me/Mohammad_Jafari_dev">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="mailto:mohammadjafari4999@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://mohammad-jafari-dev.github.io/mohammad-jafari-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a></div>---
+<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-Mohammad--Jafari--dev-181717?style=for-the-badge&logo=github)" (https://github.com/Mohammad-Jafari-dev)
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=39D98A&center=true&vCenter=true&width=600&lines=Stay+Curious.;Keep+Building.;Think+Scientifically.;Never+Stop+Evolving." alt="Footer Animation"><br>Learn. Build. Evolve.
+""X" (https://img.shields.io/badge/X-@MohammadJafdev-000000?style=for-the-badge&logo=x)" (https://x.com/MohammadJafdev)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:166534,100:052E16&height=110&section=footer" width="100%" alt="Green Footer"></div>
+""Telegram" (https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)" (https://t.me/Mohammad_Jafari_dev)
+
+""Email" (https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:mohammadjafari4999@gmail.com)
+
+</div>---
+
+<div align="center">🌱 Always Learning. Always Building.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A14,50:087A50,100:00D69A&height=120&section=footer" width="100%" alt="Footer" /></div>
